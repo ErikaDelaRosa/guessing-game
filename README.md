@@ -12,3 +12,8 @@
 ![alt text](./images/game-lost.png "Lost Game") 
 
 **See the images for reference**
+
+
+Failures : Obviously, there is a mistake on the javascript formula, as didn do what i need it to do. But, after all day triying and even after spaking with Ale, I got very very frustrated and I couldn't find the error. 
+
+Satisfied about : nothing really. 
